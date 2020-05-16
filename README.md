@@ -1,2 +1,3 @@
-# Intro_to_Java_Daniel_Liang
-These are the solutions for the book - Introduction to Java Programming and Data Structures by Daniel Liang
+# CS 1331 Homework Answers
+These are the solutions to Georgia Tech's CS 1331 Class
+https://cs1331.gitlab.io/fall2018.html
