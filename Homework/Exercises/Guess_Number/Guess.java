@@ -27,7 +27,7 @@ public class Guess
                 catch(NumberFormatException x)
                 {
                     System.out.println("You have to enter a number bro");
-                    continue process;
+                    continue;
                 }
             }
             if(num > val)
