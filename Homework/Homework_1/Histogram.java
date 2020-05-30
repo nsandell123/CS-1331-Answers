@@ -1,3 +1,4 @@
+package Homework_1;
 import java.util.*;
 import java.io.*;
 public class Histogram {
